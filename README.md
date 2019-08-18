@@ -25,7 +25,7 @@ Current path - Green dot img which shows each step the the knight will do in ord
 
 * IndexWithSvg.html (Not completed) - Basically the same as index.html but with SVG line and not dots. currently there is a problem with "X" and "Y" coordinates relatively to the board.
 
-Note: Chessboard movements are dealayed with 800 milliseconds. 
+Note: Chessboard movements are delayed with 800 milliseconds. 
 
 
 
